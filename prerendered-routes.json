@@ -1,0 +1,12 @@
+{
+  "routes": [
+    "/auth/login",
+    "/auth/register",
+    "/dashboard/comptes",
+    "/dashboard/home",
+    "/dashboard/paiements",
+    "/dashboard/parametre",
+    "/dashboard/transfert",
+    "/home"
+  ]
+}
